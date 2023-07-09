@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/serkanbahtiyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serkanbahtiyar" height="30" width="40" /></a>
-  <br> <br> <br>
+  <br> <br>
 <a href="http://serkanbahtiyar9.somee.com/serkan/index.html" style="transition: font-size 0.2s; text-decoration: none;" onmouseover="this.style.fontSize='1.2em'" onmouseout="this.style.fontSize='1em'">Serkan Bahtiyar</a>
 </p>
 
