@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/serkanbahtiyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serkanbahtiyar" height="30" width="40" /></a>
   <br> <br>
-<a href="http://bahtiyar.somee.com/serkan/index.html" style="transition: font-size 0.2s; text-decoration: none;" onmouseover="this.style.fontSize='1.2em'" onmouseout="this.style.fontSize='1em'">Serkan Bahtiyar</a>
+<a href="http://serkan.somee.com/serkan/index.html" style="transition: font-size 0.2s; text-decoration: none;" onmouseover="this.style.fontSize='1.2em'" onmouseout="this.style.fontSize='1em'">Serkan Bahtiyar</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
