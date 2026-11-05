@@ -1,49 +1,55 @@
+# Serkan Bahtiyar
 
+<h3 align="center">Computer Engineer · Software Developer</h3>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+MERHABA+👋;+I'm+SERKAN;" />
-</h1>
+<p align="center">
+  Building web applications, automation systems, mobile projects and machine-learning solutions.
+</p>
 
-<h3 align="center">Computer Engineer</h3>
+<p align="center">
+  <a href="https://serkanbahtiyar.github.io/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/serkanbahtiyar/">LinkedIn</a> ·
+  <a href="mailto:serkanbahtiyar9@gmail.com">Email</a>
+</p>
 
-<br/>
+---
 
+## About
 
-<div align="center"> 
+- Computer Engineering graduate (2023).
+- Interested in backend and frontend development, mobile applications and applied AI.
+- Focused on learning, problem-solving and building practical software projects.
 
-  <a href="https://www.linkedin.com/in/serkanbahtiyar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://serkanbahtiyar.github.io/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+## Technologies
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,mongodb,c,java,php" /><br>
-</div>
+**Backend & Database**
+- C#, ASP.NET MVC, Entity Framework
+- SQL Server, MySQL, PHP
 
-<br/>
-<hr/>
+**Frontend & Mobile**
+- JavaScript, React, HTML, CSS, Bootstrap
+- Java, Android, Firebase
 
+**AI & Data**
+- Python, TensorFlow, Keras, Machine Learning
 
+**Tools**
+- Git, GitHub, Visual Studio, Jupyter Notebook
 
-<hr/>
+## Featured Projects
 
+| Project | Description | Technologies |
+|---|---|---|
+| [Commercial Automation](https://github.com/SerkanBahtiyar/ticariOtomasyon) | Store product and sales process management | C#, ASP.NET MVC, Entity Framework, SQL Server |
+| [Dormitory Automation](https://github.com/SerkanBahtiyar/yurtOtomasyonu) | Student, staff, room and expense management | C#, SQL Server |
+| [City Guide & Review](https://github.com/SerkanBahtiyar/sehirTanitimWeb) | City attractions, local food and user reviews | PHP, MySQL, JavaScript |
+| [Local Product Sales App](https://github.com/SerkanBahtiyar/urunSatisMobil) | Android application for local product sales | Java, Firebase |
+| [Clothing Classification](https://github.com/SerkanBahtiyar/modelEgitme) | Image classification experiment for clothing categories | Python, Keras, TensorFlow |
+| [React Image Search](https://github.com/SerkanBahtiyar/apiProject) | Search and display images using the Unsplash API | React, JavaScript, Axios |
+| [Compiler Design](https://github.com/SerkanBahtiyar/derleyiciTasarimi) | Python-based compiler design study | Python |
 
+## Contact
 
-
-
-
-<br/><br/>
-
-<hr/>
-
-
-
-<br/>
+- Portfolio: https://serkanbahtiyar.github.io/
+- LinkedIn: https://www.linkedin.com/in/serkanbahtiyar/
+- Email: serkanbahtiyar9@gmail.com
